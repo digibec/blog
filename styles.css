@@ -29,11 +29,22 @@ h3 {
 	font-size: 20pt;
 	font-variant: normal;
 	text-shadow: 0px 0px;
-	text-align: left;
+	text-align: center;
+	border-top-color: #1D0F0F;
+	border-top-style: dashed;
+	border-spacing: 10px 10px;
+	padding-top: 40px;
+	display: block;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 p {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 14pt;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-top: px;
+	text-align: left;
 }
