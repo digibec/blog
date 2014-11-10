@@ -1,0 +1,39 @@
+@charset "UTF-8";
+h1 {
+	font-family: antic-didone;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 75px;
+	text-align: center;
+	border-top: 20pt solid #5C0856;
+	padding-top: 20px;
+	color: #5B5B5B;
+}
+h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: small-caps;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: -40px;
+	font-size: 24pt;
+	border-bottom: 20pt solid #5C0856;
+	border-spacing: 10px 10px;
+	padding-bottom: 20px;
+}
+h3 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20pt;
+	font-variant: normal;
+	text-shadow: 0px 0px;
+	text-align: left;
+}
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14pt;
+}
